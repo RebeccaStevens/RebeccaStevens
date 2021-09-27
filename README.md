@@ -53,13 +53,13 @@ Todo
     <td>
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=RebeccaStevens&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api?username=RebeccaStevens&hide_border=true&show_icons=true&hide_title=true&text_color=9f9f9f&bg_color=00000000"
       />
     </td>
     <td>
       <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=RebeccaStevens&show_icons=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=RebeccaStevens&hide_border=true&show_icons=true&sideLabels=9f9f9f&sideNums=9f9f9f&dates=9f9f9f&currStreakNum=9f9f9f&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9&background=00000000"
       />
     </td>
   </tr>
@@ -68,7 +68,7 @@ Todo
       <img
         align="center"
         width="100%"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=RebeccaStevens"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=@RebeccaStevens&hide_border=true&custom_title=Week's Activity&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&range=last_7_days"
       />
     </td>
   </tr>
