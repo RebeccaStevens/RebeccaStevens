@@ -39,7 +39,7 @@ bc1qgr2xwvkpztsaq9kplud84r3dfz4g3e7d5c5lxm
 </details>
 
 <details>
-<summary><img src="./assets/cryptocurrencies/logos/ltc.png" height="16"> Litecoin</summary>
+<summary><img src="./assets/cryptocurrencies/logos/ltc.svg" height="16"> Litecoin</summary>
 
 ![litecoin address QR code](./assets/cryptocurrencies/wallets/litecoin.png)\
 ltc1qxr7p6z4hrh87g9mjjk67chyduwrh2nfrpxksjv
