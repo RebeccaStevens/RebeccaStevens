@@ -10,7 +10,7 @@ Lately I most working on developing libraries/plugins.
 
 I'm a pretty quiet person and I don't really know what else to write here.
 
-<a href="https://www.16personalities.com/istp-personality"><abbr title="Introverted, Observant, Thinking, Prospecting, Turbulent">ISTP-T</abbr></a>
+<a href="https://www.16personalities.com/istp-personality" title="Introverted, Observant, Thinking, Prospecting, Turbulent"><abbr title="Introverted, Observant, Thinking, Prospecting, Turbulent">ISTP-T</abbr></a>
 
 </p>
 
