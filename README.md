@@ -5,7 +5,12 @@
 <h2>About me</h2>
 
 <p>
-I like working on TypeScript libraries.
+I'm a TypeScript developer that tends to writes functional (as opposed to imperative) code.
+Lately I most working on developing libraries/plugins.
+
+I'm a pretty quiet person and I don't really know what else to write here.
+
+ISTP-T
 </p>
 
 <h3>Super Powers</h3>
