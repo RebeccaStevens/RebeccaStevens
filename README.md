@@ -118,7 +118,7 @@ ltc1qxr7p6z4hrh87g9mjjk67chyduwrh2nfrpxksjv
       <img
         align="center"
         width="100%"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=@RebeccaStevens&hide_border=true&custom_title=Week's Activity&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&range=last_7_days"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=RebeccaStevens&hide_border=true&custom_title=Week%27s%20Activity&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&range=last_7_days"
       />
     </td>
   </tr>
