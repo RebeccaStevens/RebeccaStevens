@@ -6,7 +6,7 @@
 
 <p>
 I'm a TypeScript developer that tends to writes functional (as opposed to imperative) code.
-Lately I most working on developing libraries/plugins.
+Lately I tend to mostly work on developing libraries.
 
 I'm a pretty quiet person and I don't really know what else to write here.
 
@@ -20,7 +20,7 @@ I'm a pretty quiet person and I don't really know what else to write here.
 
 <h2>Donations</h2>
 
-Any donations would be much appreciated. 😄
+If you like what I'm doing an wish to support me, any donations would be much appreciated. 😄
 
 <h3>Real money</h3>
 
@@ -52,14 +52,6 @@ ltc1qxr7p6z4hrh87g9mjjk67chyduwrh2nfrpxksjv
 
 </details>
 
-<details>
-<summary><img src="https://github.com/get-icon/geticon/raw/master/icons/monero.svg" height="16"> Monero</summary>
-
-![monero address QR code](./assets/cryptocurrencies/wallets/monero.png)\
-441qae5ovobcXCpcR7SKzX11r7vinzMgsiyAFKUFBaZgHvzgrna9WSeJeAH46gXR5AXrE3zKALfWx3ayobyexnDX1gie1Qd
-
-</details>
-
 <h2>Languages, Tools and Technologies</h2>
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="40px" height="40px"></a>
@@ -69,6 +61,7 @@ ltc1qxr7p6z4hrh87g9mjjk67chyduwrh2nfrpxksjv
 <a href="https://vuejs.org/" title="Vue"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue" width="40px" height="40px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40px" height="40px"></a>
 <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="40px" height="40px"></a>
+<a href="https://pinia.vuejs.org/" title="Pinia"><img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="40px" height="40px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="40px" height="40px"></a>
 <a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="40px" height="40px"></a>
 <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="40px" height="40px"></a>
@@ -76,14 +69,20 @@ ltc1qxr7p6z4hrh87g9mjjk67chyduwrh2nfrpxksjv
 <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="40px" height="40px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
+<a href="https://postcss.org/" title="PostCSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/postcss.svg" alt="PostCSS" width="40px" height="40px"></a>
 <a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="40px" height="40px"></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="40px" height="40px"></a>
 <a href="https://material-ui.com/" title="Material UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="40px" height="40px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="40px" height="40px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="40px" height="40px"></a>
 <a href="https://isocpp.org/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="40px" height="40px"></a>
+<a href="https://cplusplus.com/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="40px" height="40px"></a>
+<a href="https://www.arduino.cc/" title="Arduino"><img src="https://github.com/get-icon/geticon/raw/master/icons/arduino.svg" alt="Arduino" width="40px" height="40px"></a>
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="40px" height="40px"></a>
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="40px" height="40px"></a>
+<a href="https://www.markdownguide.org/" title="Markdown"><img src="https://github.com/get-icon/geticon/raw/master/icons/markdown.svg" alt="Markdown" width="40px" height="40px"></a>
+<a href="https://www.json.org/" title="Json"><img src="https://github.com/get-icon/geticon/raw/master/icons/json.svg" alt="Json" width="40px" height="40px"></a>
+<a href="https://yaml.org/" title="Yaml"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Official_YAML_Logo.svg" alt="Yaml" width="40px" height="40px"></a>
 <a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="40px" height="40px"></a>
 <a href="https://developers.google.com/web/tools/lighthouse" title="Lighthouse"><img src="https://github.com/get-icon/geticon/raw/master/icons/lighthouse.svg" alt="Lighthouse" width="40px" height="40px"></a>
 <a href="https://webhint.io/" title="webhint"><img src="https://github.com/get-icon/geticon/raw/master/icons/webhint-icon.svg" alt="webhint" width="40px" height="40px"></a>
